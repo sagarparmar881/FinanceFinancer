@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bAdd"
+        android:title="Add Group"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/bExit"
+        android:title="Exit"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/bTutorial"
+        android:title="Tutorial" />
+
+    <item
+        android:id="@+id/bAbout"
+        android:title="About" />
+
+</menu>

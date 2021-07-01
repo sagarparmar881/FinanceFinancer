@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "549370021001",
+    "firebase_url": "https://financefinancer-43740.firebaseio.com",
+    "project_id": "financefinancer-43740",
+    "storage_bucket": "financefinancer-43740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549370021001:android:86a2c95d721b89e1b6f258",
+        "android_client_info": {
+          "package_name": "com.example.financefinancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549370021001-k3n761e8n321e8qdpb5ihcbahvl39mi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1E-TOnfry-lVXkY7Z1CYIyZLSRYuN04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549370021001-k3n761e8n321e8qdpb5ihcbahvl39mi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

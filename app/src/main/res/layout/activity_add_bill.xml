@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg_addbill_screen"
+    android:orientation="vertical"
+    tools:context="com.example.financefinancer.activity.AddBillActivity">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8fff"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginVertical="2dp"
+            android:layout_marginStart="0sp"
+            android:layout_marginLeft="0sp"
+            android:layout_toLeftOf="@id/etNameAmount"
+            android:background="@drawable/list_bg_box"
+            android:baselineAligned="true"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:gravity="right"
+                android:text="Bill Name : "
+
+                android:textColor="@color/primaryTextColor"
+                android:textColorHint="@color/primaryTextColor"
+                android:textSize="20dp" />
+
+            <EditText
+                android:id="@+id/etAddBillName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/primaryTextColor"
+                android:ems="10"
+                android:hint="Enter Bill Name "
+                android:inputType="textCapSentences"
+                android:textColor="@color/primaryTextColor"
+                android:textColorHint="@color/primaryTextColor"
+                />
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/etNameAmount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginVertical="2dp"
+            android:background="@drawable/list_bg_box"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:textColor="@color/primaryTextColor">
+
+            <TextView
+                android:id="@+id/bBillAmount"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:gravity="right|center"
+                android:text="Bill Amount : "
+                android:textColor="@color/primaryTextColor"
+                android:textSize="20dp"/>
+
+
+            <EditText
+                android:id="@+id/etAddBillAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_toRightOf="@id/bBillAmount"
+                android:backgroundTint="@color/primaryTextColor"
+                android:ems="10"
+                android:hint="Enter Bill Amount"
+                android:inputType="numberSigned"
+                android:textColor="@color/primaryTextColor"
+                android:textColorHint="@color/primaryTextColor"/>
+
+
+        </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="2dp"
+                android:orientation="horizontal"
+                android:textColor="@color/primaryTextColor">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/list_bg_box">
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="2dp"
+                        android:gravity="center|right"
+                        android:padding="8dp"
+                        android:text="Bill Paid By : "
+                        android:textColor="@color/primaryTextColor"
+                        android:textSize="20dp"
+                        />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <Spinner
+                            android:id="@+id/spinner3"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_centerVertical="true"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:spinnerMode="dropdown"
+                            android:backgroundTint="@color/primaryTextColor"/>
+
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+    </LinearLayout>
+
+        <ListView
+            android:id="@+id/lvAddBillMember"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="2"
+            android:divider="@null"
+            android:textColor="#000"
+            android:visibility="invisible" />
+
+
+        <Button
+        android:id="@+id/bAddBillAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_trip_list_view"
+        android:text="Save Bill"
+        android:textColor="#FFF"
+        android:textSize="16sp" />
+
+</LinearLayout>
+
+
+
+</LinearLayout>
