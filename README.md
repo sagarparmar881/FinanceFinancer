@@ -1,2 +1,2 @@
-# financeFinancer
-Android app for split your bills!
+# FinanceFinancer
+Android app to split your bills!
