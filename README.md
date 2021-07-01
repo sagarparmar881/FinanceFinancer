@@ -8,18 +8,16 @@
 * Xml
 * Firebase
 ---
-#### Watch Demo : #
+#### Demo APK : #
 ---
 ## Features
 
-* User can register with phone number
-* User can add personal info such name, profile image
-* User can see userlist who are using TextChat from his/her mobile contact
-* User can see who is online
-* User can send text message each other
-* User can chat by group
-* User can see notification if someone message
-* User can send message to retrieve text from image using Gallery or Camera
+* User can create a new group
+* User can add/delete new members to the group
+* User can add new bills to the group
+* User can split the final bill among members
+* User can view settlement amount
+* User can share settlement amount as text
 ---
 ## Screenshots with description
 
