@@ -5,4 +5,4 @@
 ![Screenshot_20210701-224618](https://user-images.githubusercontent.com/47896458/124164730-a6157e80-dabe-11eb-8e7e-71dead326337.jpg)
 # financeFinancer
 Android app for split your bills!
-img src="https://user-images.githubusercontent.com/47896458/124164730-a6157e80-dabe-11eb-8e7e-71dead326337.jpg" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/47896458/124164730-a6157e80-dabe-11eb-8e7e-71dead326337.jpg" width="100" height="100"/>
