@@ -48,66 +48,8 @@ Add new bill             |  Add new bill | All items added
 
 After adding all members and bills we can now split them among the group members and do the settlements. Also, we can share this to all members via share button.
 
-Settlements   |  Share as text | This is logout option
+Settlements   |  Share as text | 
 :-------------------------:|:-------------------------:|:-------------------------:
-![2019_05_14_17 11 38](https://i.postimg.cc/SRsMFtbF/Screenshot-20210701-224618.jpg)  |  ![2019_05_14_17 11 43 - Copy](https://i.postimg.cc/kG8M6k8d/Screenshot-20210701-233656.jpg) | ![2019_05_14_17 02 28](https://user-images.githubusercontent.com/42282069/61287469-c327e880-a7e6-11e9-91bf-dc2af414f78a.jpg)
+![2019_05_14_17 11 38](https://i.postimg.cc/SRsMFtbF/Screenshot-20210701-224618.jpg)  |  ![2019_05_14_17 11 43 - Copy](https://i.postimg.cc/kG8M6k8d/Screenshot-20210701-233656.jpg) | ![2019_05_14_17 02 28]()
 
----
-
-If you send message to anyone who is not online p but they have net connection with the phone then they will get your message notification
-
-Sending message            |  Message notification
-:-------------------------:|:-------------------------:
-![Screenshot (134) - Copy](https://user-images.githubusercontent.com/42282069/61291082-41888880-a7ef-11e9-866d-75b62f8697d8.png)  |  ![Capture - Copy (2)](https://user-images.githubusercontent.com/42282069/61291083-42211f00-a7ef-11e9-981c-cd2f666e8081.PNG)
-
----
-
-## Feature Work
-
-I will be  added voice recognization function and also  smart reply option by analyzing previous messages
-
----
-
-## Important code
-
-* Userlist(Firebase) with comparing phone contact:
-
-
-
-## License
-
-MIT License
-
-Copyright (c) 2019 Md. Moahiminur Rahaman
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[Back To The Top](#Textchat)
-
----
-
-## Author Info
-- Linkedin- [@Mohaiminur](https://www.linkedin.com/in/mohaiminur/)
-- Youtube- [@Mohaiminur](https://www.youtube.com/channel/UC5MlwVt5vXtpHvgDHxbgqmw)
-- Facebook- [@Mohaiminur](https://facebook.com/sifat404)
-- Twitter - [@Mohaiminur](https://twitter.com/sifatkhan442)
-- Website - [Mohaiminur](https://mohaiminur.ml)
-
-[Back To The Top](#Textchat)
 ---
