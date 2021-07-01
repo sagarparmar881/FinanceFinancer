@@ -40,7 +40,7 @@ Add New Members |  Insert Name | Member Added
 
 Adding all bills to the list. Later, splitting them.
 
-Add new bill             |  Add new bill | Add new bill
+Add new bill             |  Add new bill | All items added
 :-------------------------:|:-------------------------:|:-------------------------:
 ![2019_05_14_17 01 30](https://i.postimg.cc/tT96D4rg/Screenshot-20210701-224537.jpg)  |  ![2019_05_14_17 10 13](https://i.postimg.cc/mrYMQHyq/Screenshot-20210701-224606.jpg) | ![2019_05_14_17 11 04](https://i.postimg.cc/L5bZHBmq/Screenshot-20210701-224611.jpg)
 
