@@ -46,11 +46,11 @@ Add new bill             |  Add new bill | All items added
 
 ---
 
-In your phone gallery if any image have text then you can send it as text message by featching the text from the gallery image. there is also have logout option
+After adding all members and bills we can now split them among the group members and do the settlements. Also, we can share this to all members via share button.
 
-Gallery image    |  Find text from gallery | This is logout option
+Settlements   |  Share as text | This is logout option
 :-------------------------:|:-------------------------:|:-------------------------:
-![2019_05_14_17 11 38](https://user-images.githubusercontent.com/42282069/61287474-c3c07f00-a7e6-11e9-9ef3-332eb4914a8a.jpg)  |  ![2019_05_14_17 11 43 - Copy](https://user-images.githubusercontent.com/42282069/61287476-c4591580-a7e6-11e9-8279-a258015ba2e7.jpg) | ![2019_05_14_17 02 28](https://user-images.githubusercontent.com/42282069/61287469-c327e880-a7e6-11e9-91bf-dc2af414f78a.jpg)
+![2019_05_14_17 11 38](https://i.postimg.cc/SRsMFtbF/Screenshot-20210701-224618.jpg)  |  ![2019_05_14_17 11 43 - Copy](https://i.postimg.cc/kG8M6k8d/Screenshot-20210701-233656.jpg) | ![2019_05_14_17 02 28](https://user-images.githubusercontent.com/42282069/61287469-c327e880-a7e6-11e9-91bf-dc2af414f78a.jpg)
 
 ---
 
