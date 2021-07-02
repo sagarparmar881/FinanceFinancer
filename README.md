@@ -48,6 +48,6 @@ After adding all members and bills we can now split them among the group members
 
 Settlements   |  Share as text | 
 :-------------------------:|:-------------------------:|:-------------------------:
-![2019_05_14_17 11 38](https://i.postimg.cc/SRsMFtbF/Screenshot-20210701-224618.jpg)  |  ![2019_05_14_17 11 43 - Copy](https://i.postimg.cc/kG8M6k8d/Screenshot-20210701-233656.jpg) | ![2019_05_14_17 02 28]()
+![2019_05_14_17 11 38](https://i.postimg.cc/SRsMFtbF/Screenshot-20210701-224618.jpg)  |  ![2019_05_14_17 11 43 - Copy](https://i.postimg.cc/kG8M6k8d/Screenshot-20210701-233656.jpg) |
 
 ---
